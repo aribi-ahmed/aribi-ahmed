@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science Student @ INSAT (MPI) 🧑🏻‍💻<br>International CS Online Tutor 🧑🏻‍🏫<br>Currently working on honing my competitive programming skills 🥇<br>
+Computer Science Student @ INSAT (MPI) 🧑🏻‍💻<br>International CS Online Tutor 🧑🏻‍🏫<br>Currently working on surviving preparatory year 💀 <br>
 
 
 ## 🌐 Socials:
