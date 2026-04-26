@@ -11,7 +11,7 @@ Computer Science Student @ INSAT (MPI) 🧑🏻‍💻<br>International CS Onlin
 ![](https://github-readme-stats.vercel.app/api?username=aribi-ahmed&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=aribi-ahmed&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aribi-ahmed&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-[![Ahmed Aribi profile views](https://u8views.com/api/v1/github/profiles/225731837/views/day-week-month-total-count.svg)](https://u8views.com/github/aribi-ahmed)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aribi-ahmed&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
